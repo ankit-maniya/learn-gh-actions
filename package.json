@@ -1,0 +1,16 @@
+{
+  "name": "learn-gh-actions",
+  "version": "1.0.0",
+  "description": "this my learning project of github ci-cd pipelines",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Ankit Maniya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
